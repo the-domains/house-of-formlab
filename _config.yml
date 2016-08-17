@@ -1,4 +1,3 @@
-layout_spectrum: 0.07175980694591999
 typography_spectrum: 0.8289805131498724
 color:
   brandStrength: 0.5199747912120074
@@ -11,4 +10,6 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-name: House of Formlab
+layout_spectrum: 0.07175980694591999
+name: HOF amsterdam
+title: House of Formlab
